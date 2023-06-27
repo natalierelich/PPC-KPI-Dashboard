@@ -2,7 +2,7 @@
 
 ## The Business Task
 
-**Create a visually appealing dashboard that allows the user to quickly understand key campaign metrics**
+### Create a visually appealing dashboard that allows the user to quickly understand key campaign metrics
 
 A client wanted to better understand how her various Google Ads campaigns had performed over the past year, but she found the Google reporting features confusing and it was time-consuming to extract the information she actually needed.
 
@@ -24,4 +24,5 @@ She was able to take this information and decide which campaigns she would conti
 - Conditional formatting for dynamic highlighting
 - Practical and aesthetic use of color
 
-**Note: Some data has been altered for privacy purposes**
+
+**Note: Some data in the Excel file has been altered for privacy purposes**
