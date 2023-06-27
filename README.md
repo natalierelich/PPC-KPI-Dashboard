@@ -1,6 +1,6 @@
 # KPI Dashboard in Excel
 
-##The Business Task
+## The Business Task
 
 **Create a visually appealing dashboard that allows the user to quickly understand key campaign metrics**
 
@@ -8,7 +8,7 @@ A client wanted to better understand how her various Google Ads campaigns had pe
 
 She needed a dashboard that visualized her campaign metrics in a way that helped her decide how to modify them moving forward to meet her goals.
 
-##My Approach and Solution
+## My Approach and Solution
 
 I worked with my client to decide which metrics were most important to her business. The end result was an Excel dashboard that displayed this information at a glance.
 
@@ -18,7 +18,7 @@ I then used my data visualization skills to transform the raw data into meaningf
 
 She was able to take this information and decide which campaigns she would continue to run and which she needed to modify to meet her goals.
 
-##Skills Used
+## Skills Used
 - Microsoft Excel
 - Charts and graphs to provide useful visualizations
 - Conditional formatting for dynamic highlighting
